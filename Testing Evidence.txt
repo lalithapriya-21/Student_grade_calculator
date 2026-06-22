@@ -1,0 +1,68 @@
+Testing Evidence
+
+
+Test Case 1:-
+
+Input:
+Name: Priya
+Marks: 95
+Expected Output:
+Grade: A
+Message:
+Excellent work. You have performed exponentially well. keep Aiming high.
+
+
+Test Case 2:-
+
+Input:
+Name: Priya
+Marks: 85
+Expected Output:
+Grade: B
+Message:
+Great job! Keep It Up!
+
+Test Case 3:-
+
+Input:
+Name: Priya
+Marks: 72
+Expected Output:
+Grade: C
+Message:
+Good work! Keep practicing .you can achieve even more.
+
+Test Case 4:-
+
+Input:
+Name: Priya
+Marks: 63
+Expected Output:
+Grade: D
+Message:
+Don't Give Up. Keep Doing!
+
+Test Case 5:-
+
+Input:
+Name: Priya
+Marks: 40
+Expected Output:
+Grade: F
+Message:
+Better luck next time.
+
+Test Case 6:-
+
+Input:
+Marks = 120
+Expected Output:
+you have entered invalid marks! Please enter valid marks.
+
+Test Case 7:-
+
+Input:
+Marks = abc
+Expected Output:
+Invalid Number
+
